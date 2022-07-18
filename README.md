@@ -12,4 +12,4 @@
 <img src="https://github.com/ImranYounas123/AI-Attendence-System/blob/master/Project-ScreenShot/p4.PNG" />
 
 
-<img shttps://github.com/ImranYounas123/AI-Attendence-System/blob/master/Project-ScreenShot/p5.PNG" />
+<img src = "https://github.com/ImranYounas123/AI-Attendence-System/blob/master/Project-ScreenShot/p5.PNG" />
